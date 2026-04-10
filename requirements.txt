@@ -1,5 +1,7 @@
 pytest>=7.0
 python-dotenv>=1.0
+pyyaml>=6.0
+streamlit>=1.30
 
 # Optional manual-demo extras
 # Install local embedder support with:

@@ -1,0 +1,43 @@
+source: "Thông tư 15/2020/TT-BGDDT"
+language: vi
+
+documents:
+  01_quy_dinh_chung:
+    category: quy_dinh_chung
+    phase: general
+
+  02_ban_chi_dao_hoi_dong:
+    category: to_chuc_thi
+    phase: preparation
+
+  03_diem_thi_phong_thi:
+    category: to_chuc_thi
+    phase: preparation
+
+  04_doi_tuong_dieu_kien:
+    category: dang_ky_thi
+    phase: registration
+
+  05_trach_nhiem_thi_sinh:
+    category: thi_sinh
+    phase: registration
+
+  06_cong_tac_de_thi:
+    category: de_thi
+    phase: preparation
+
+  07_in_sao_van_chuyen_de:
+    category: de_thi
+    phase: preparation
+
+  08_coi_thi:
+    category: coi_thi
+    phase: exam
+
+  09_cham_thi:
+    category: cham_thi
+    phase: grading
+
+  10_phuc_khao_tot_nghiep:
+    category: phuc_khao
+    phase: appeals

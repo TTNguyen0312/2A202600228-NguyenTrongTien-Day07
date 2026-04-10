@@ -2,6 +2,15 @@
 
 ---
 
+## Hướng dẫn chạy thử frontend để test
+Tạo môi trường với:
+EMBEDDING_PROVIDER=openai
+OPENAI_EMBEDDING_MODEL=text-embedding-3-large
+
+Chạy:
+- pip install -r requirements.txt
+- streamlit run src/app.py
+
 ## Mục Tiêu
 
 Sau lab này, bạn cần có thể:
